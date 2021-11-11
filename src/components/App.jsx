@@ -44,7 +44,7 @@ class App extends Component {
         this.books.push(newBook);
         this.setState({
             bookNumber: this.books.length - 1
-        })
+        });
     } 
 
     render(){

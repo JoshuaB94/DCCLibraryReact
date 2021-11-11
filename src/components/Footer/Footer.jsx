@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Footer.css";
 
-// eslint-disable-next-line
+
 const Footer = (props) => {
     return ( 
         <div className="row row-space">
