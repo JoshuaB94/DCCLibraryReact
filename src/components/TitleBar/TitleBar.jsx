@@ -6,7 +6,7 @@ function TitleBar(props){
         <div className="row row-space">
             <div className="col-md-12" style={{padding: 0}}>
                 <div className="titlebar-nav">
-                    <h1>DCC Library</h1>
+                    <h1 className="titlebar-heading">Christian Literature Library</h1>
                 </div>
             </div>
         </div>

@@ -1,0 +1,16 @@
+.footer-area{
+    background-color: lightseagreen;
+    width: 100%;
+}
+
+.footer-text {
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.footer-link {
+    color: yellow;
+}
